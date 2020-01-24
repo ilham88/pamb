@@ -1,1 +1,1 @@
-sudo docker run mirror-bot
+worker: docker run mirror-bot
